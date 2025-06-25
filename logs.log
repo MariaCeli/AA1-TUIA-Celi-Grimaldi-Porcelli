@@ -2428,3 +2428,112 @@ Alternately, you can install this by running `pip install pycaret[models]`
 2025-06-24 01:39:50,375:WARNING:C:\Users\fabri\AppData\Local\Temp\ipykernel_10660\1050634689.py:3: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
   learning_rate = trial.suggest_loguniform('learning_rate', 1e-4, 1e-1)
 
+2025-06-24 02:29:01,505:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-24 02:29:01,506:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-24 02:29:01,506:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-24 02:29:01,506:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-24 02:29:29,888:WARNING:C:\anaconda3\envs\tf\lib\site-packages\keras\engine\training.py:2319: UserWarning: Metric F1Score implements a `reset_states()` method; rename it to `reset_state()` (without the final "s"). The name `reset_states()` has been deprecated to improve API consistency.
+  m.reset_state()
+
+2025-06-24 02:32:09,991:WARNING:C:\Users\fabri\AppData\Local\Temp\ipykernel_7644\2249242894.py:3: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  learning_rate = trial.suggest_loguniform('learning_rate', 1e-4, 1e-1)
+
+2025-06-24 02:32:13,164:WARNING:C:\anaconda3\envs\tf\lib\site-packages\keras\engine\training.py:2319: UserWarning: Metric F1Score implements a `reset_states()` method; rename it to `reset_state()` (without the final "s"). The name `reset_states()` has been deprecated to improve API consistency.
+  m.reset_state()
+
+2025-06-24 02:35:14,152:WARNING:C:\Users\fabri\AppData\Local\Temp\ipykernel_7644\1223158025.py:3: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  learning_rate = trial.suggest_loguniform('learning_rate', 1e-4, 1e-1)
+
+2025-06-24 02:38:10,103:WARNING:C:\Users\fabri\AppData\Local\Temp\ipykernel_7644\4006239550.py:3: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  learning_rate = trial.suggest_loguniform('learning_rate', 1e-4, 1e-1)
+
+2025-06-24 13:26:32,037:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-24 13:26:32,037:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-24 13:26:32,037:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-24 13:26:32,037:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-06-24 14:42:55,720:WARNING:C:\anaconda3\envs\tf\lib\site-packages\keras\engine\training.py:2319: UserWarning: Metric F1Score implements a `reset_states()` method; rename it to `reset_state()` (without the final "s"). The name `reset_states()` has been deprecated to improve API consistency.
+  m.reset_state()
+
+2025-06-24 14:49:48,288:WARNING:C:\Users\fabri\AppData\Local\Temp\ipykernel_4148\1417007691.py:3: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  learning_rate = trial.suggest_loguniform('learning_rate', 1e-4, 1e-1)
+
+2025-06-24 14:50:29,659:WARNING:C:\Users\fabri\AppData\Local\Temp\ipykernel_4148\3303882791.py:3: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  learning_rate = trial.suggest_loguniform('learning_rate', 1e-4, 1e-1)
+
+2025-06-24 14:52:40,769:WARNING:C:\Users\fabri\AppData\Local\Temp\ipykernel_4148\1419486225.py:3: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  learning_rate = trial.suggest_loguniform('learning_rate', 1e-4, 1e-1)
+
+2025-06-24 14:55:50,817:WARNING:C:\Users\fabri\AppData\Local\Temp\ipykernel_4148\1419486225.py:3: FutureWarning: suggest_loguniform has been deprecated in v3.0.0. This feature will be removed in v6.0.0. See https://github.com/optuna/optuna/releases/tag/v3.0.0. Use suggest_float(..., log=True) instead.
+  learning_rate = trial.suggest_loguniform('learning_rate', 1e-4, 1e-1)
+
+2025-06-24 14:55:54,015:WARNING:C:\anaconda3\envs\tf\lib\site-packages\keras\engine\training.py:2319: UserWarning: Metric F1Score implements a `reset_states()` method; rename it to `reset_state()` (without the final "s"). The name `reset_states()` has been deprecated to improve API consistency.
+  m.reset_state()
+
+2025-06-24 23:44:53,297:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:94: UserWarning: Your TensorFlow version is newer than 2.4.0 and so graph support has been removed in eager mode and some static graphs may not be supported. See PR #1483 for discussion.
+  warnings.warn(
+
+2025-06-24 23:46:16,839:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:94: UserWarning: Your TensorFlow version is newer than 2.4.0 and so graph support has been removed in eager mode and some static graphs may not be supported. See PR #1483 for discussion.
+  warnings.warn(
+
+2025-06-24 23:46:28,088:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:94: UserWarning: Your TensorFlow version is newer than 2.4.0 and so graph support has been removed in eager mode and some static graphs may not be supported. See PR #1483 for discussion.
+  warnings.warn(
+
+2025-06-24 23:47:43,878:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:94: UserWarning: Your TensorFlow version is newer than 2.4.0 and so graph support has been removed in eager mode and some static graphs may not be supported. See PR #1483 for discussion.
+  warnings.warn(
+
+2025-06-24 23:50:26,127:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:94: UserWarning: Your TensorFlow version is newer than 2.4.0 and so graph support has been removed in eager mode and some static graphs may not be supported. See PR #1483 for discussion.
+  warnings.warn(
+
+2025-06-24 23:50:26,233:WARNING:C:\anaconda3\envs\tf\lib\site-packages\keras\backend.py:451: UserWarning: `tf.keras.backend.set_learning_phase` is deprecated and will be removed after 2020-10-11. To update it, simply pass a True/False value to the `training` argument of the `__call__` method of your layer or model.
+  warnings.warn(
+
+2025-06-24 23:51:35,633:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:94: UserWarning: Your TensorFlow version is newer than 2.4.0 and so graph support has been removed in eager mode and some static graphs may not be supported. See PR #1483 for discussion.
+  warnings.warn(
+
+2025-06-24 23:51:35,639:WARNING:C:\anaconda3\envs\tf\lib\site-packages\keras\backend.py:451: UserWarning: `tf.keras.backend.set_learning_phase` is deprecated and will be removed after 2020-10-11. To update it, simply pass a True/False value to the `training` argument of the `__call__` method of your layer or model.
+  warnings.warn(
+
+2025-06-24 23:51:56,835:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:153: UserWarning: You have provided over 5k background samples! For better performance consider using smaller random sample.
+  warnings.warn(
+
+2025-06-25 00:00:00,937:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:94: UserWarning: Your TensorFlow version is newer than 2.4.0 and so graph support has been removed in eager mode and some static graphs may not be supported. See PR #1483 for discussion.
+  warnings.warn(
+
+2025-06-25 00:00:00,944:WARNING:C:\anaconda3\envs\tf\lib\site-packages\keras\backend.py:451: UserWarning: `tf.keras.backend.set_learning_phase` is deprecated and will be removed after 2020-10-11. To update it, simply pass a True/False value to the `training` argument of the `__call__` method of your layer or model.
+  warnings.warn(
+
+2025-06-25 00:02:37,368:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:153: UserWarning: You have provided over 5k background samples! For better performance consider using smaller random sample.
+  warnings.warn(
+
+2025-06-25 00:15:53,217:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:94: UserWarning: Your TensorFlow version is newer than 2.4.0 and so graph support has been removed in eager mode and some static graphs may not be supported. See PR #1483 for discussion.
+  warnings.warn(
+
+2025-06-25 00:15:53,217:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:153: UserWarning: You have provided over 5k background samples! For better performance consider using smaller random sample.
+  warnings.warn(
+
+2025-06-25 00:17:09,931:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:94: UserWarning: Your TensorFlow version is newer than 2.4.0 and so graph support has been removed in eager mode and some static graphs may not be supported. See PR #1483 for discussion.
+  warnings.warn(
+
+2025-06-25 00:17:09,941:WARNING:C:\anaconda3\envs\tf\lib\site-packages\keras\backend.py:451: UserWarning: `tf.keras.backend.set_learning_phase` is deprecated and will be removed after 2020-10-11. To update it, simply pass a True/False value to the `training` argument of the `__call__` method of your layer or model.
+  warnings.warn(
+
+2025-06-25 00:22:36,303:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:153: UserWarning: You have provided over 5k background samples! For better performance consider using smaller random sample.
+  warnings.warn(
+
+2025-06-25 00:41:24,939:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:94: UserWarning: Your TensorFlow version is newer than 2.4.0 and so graph support has been removed in eager mode and some static graphs may not be supported. See PR #1483 for discussion.
+  warnings.warn(
+
+2025-06-25 00:41:24,940:WARNING:C:\anaconda3\envs\tf\lib\site-packages\shap\explainers\_deep\deep_tf.py:153: UserWarning: You have provided over 5k background samples! For better performance consider using smaller random sample.
+  warnings.warn(
+
+2025-06-25 00:41:25,237:WARNING:C:\anaconda3\envs\tf\lib\site-packages\keras\backend.py:451: UserWarning: `tf.keras.backend.set_learning_phase` is deprecated and will be removed after 2020-10-11. To update it, simply pass a True/False value to the `training` argument of the `__call__` method of your layer or model.
+  warnings.warn(
+
